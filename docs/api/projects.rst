@@ -2,18 +2,20 @@
 Projects
 *********************
 
+Projects are the central 
+
 Get the list of projects that the given user is a member of:
 
 
-* .. container:: toggle
+.. container:: toggle
 
-    .. container:: header
+  .. container:: header
 
-        **GET**  /projects/....
+    **GET**  /projects/....
 
-    .. code-block:: javascript
+  .. code-block:: javascript
 
-       fields:  
+    fields:  
        
 
 
